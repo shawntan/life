@@ -1,5 +1,11 @@
 {
+<<<<<<< HEAD
 	"customStylesheetURL": null,
 	"yearLength": 40,
 	"hideAge": false
+=======
+	"customStylesheetURL": "styles.css",
+	"yearLength": 50,
+	"hideAge": true 
+>>>>>>> 5b05731... colors
 }
