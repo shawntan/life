@@ -2,6 +2,13 @@
   opacity: 0.7;
 }
 
+#life div.event.cs .time {
+  border-color: #999999;
+}
+
+
+
+
 #life div.event.edu .time {
   border-color: #935802;
 }
@@ -14,7 +21,7 @@
   border-color: #a8031c;
 }
 
-#life div.event.mus .time {
+#life div.event.scouts .time {
   border-color: #1e7a4b;
 }
 

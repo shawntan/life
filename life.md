@@ -1,12 +1,34 @@
 Shawn's life
 ===============
 
-- 17/12/1987 Born
-- 17/12/1987-1997 Lived with grandparents and babysitter
-- 01/1994-12/1999 Ang Mo Kio Primary School
-- 12/01/1994 Brother Born
-- 1997-1999 Cadet Scout (AMKPS Cadet Scout Group)
-- 01/2000-12/2003 Mayflower Secondary School
-- 31/07/2004-13/06/2007 Ngee Ann Polytechnic
-- 14/06/2007-13/06/2009 National Service
-- 08/2009-12/2012 National University of Singapore
+- [alrt] 17/12/1987 Born
+- [alrt] 17/12/1987-1996 Lived with grandparents and babysitter
+- [edu] 01/1994-12/1999 Ang Mo Kio Primary School
+- [alrt] 12/01/1994 Brother Born
+- [alrt] 1997-2001 Lived in Lakeview Estate
+- [scouts] 1997-1999 Cadet Scout (AMKPS Cadet Scout Group)
+- [cs] ~1997 Wrote first HTML page
+- [cs] ~1998 Learnt Javascript
+- [edu] 01/2000-12/2003 Mayflower Secondary School
+- [cs] 01/2000-12/2003 MFSS Computer Club
+- [cs] ~2000 Learnt Turbo Pascal
+- [scouts] 01/2000-12/2003 Boy Scout (Mayflower Secondary Scout Group)
+- [alrt] 2002-2012 Lived in Springside
+- [wrk] 01/2004-03/2004 Factory work in Motorola
+- [scouts] 12/2003-06/2006 Venture Scouts (Mayflower Secondary Scout Group)
+- [edu] 31/07/2004-13/06/2007 Ngee Ann Polytechnic
+- [cs] ~2004 Learnt Java
+- [cs] ~2007 Learnt Ruby
+- [wrk] 14/06/2007-13/06/2009 National Service
+- [scouts] 12/2008-06/2011 Rover Scout (Mayflower Secondary Scout Group)
+- [edu] 08/2009-12/2012 National University of Singapore
+- [cs] 12/2010-12/2012 Undergrad Research Project & Honours Year Project
+- [wrk] 12/2012-05/2014 Semantics3 Inc.
+- [alrt] 12/2012-06/2013 Lived in Mountain View
+- [alrt] 07/2013-11/2013 Lived in Bukit Timah
+- [alrt] 12/2013-05/2014 Lived in San Francisco
+- [wrk] 10/2014-06/2016 Research Assistant in NUS
+- [cs] 
+- [alrt] 10/2014-06/2016 Lived in Bukit Timah
+- [wrk] 08/2016-~ Researcher in MILA
+- [alrt] 08/2016-~ Living in Montreal
