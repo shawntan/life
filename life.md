@@ -28,7 +28,7 @@ Shawn's life
 - [alrt] 07/2013-11/2013 Lived in Bukit Timah
 - [alrt] 12/2013-05/2014 Lived in San Francisco
 - [wrk] 10/2014-06/2016 Research Assistant in NUS
-- [cs] 
+- [cs] ~2015 Published first research paper
 - [alrt] 10/2014-06/2016 Lived in Bukit Timah
 - [wrk] 08/2016-~ Researcher in MILA
 - [alrt] 08/2016-~ Living in Montreal
